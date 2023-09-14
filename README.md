@@ -8,5 +8,5 @@
 ## Activity 4
 ![Activity 4 Screenshot](Activity4.png)
 ## Activity 5
-![adding files Screenshot](adding_files.png)
+![adding files Screenshot](addingfiles.png)
 ![Activity 5 Screenshot](Activity5.png)
